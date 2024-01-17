@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore the data folder and its contents
+data/
+
+# Ignore all .csv files within the data folder
+data/*.csv
